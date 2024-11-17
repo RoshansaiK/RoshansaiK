@@ -2,7 +2,7 @@
 <h3 align="center">Empowering Ideas Through Code, Cybersecurity, and Full-Stack Engineering</h3>
 
 <div align="center">
-  <img src="https://cdn.glitch.global/e645f390-3eba-4b48-9964-d822ce21e3a7/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?v=1731854667118" 
+  <img src="https://cdn.glitch.global/e645f390-3eba-4b48-9964-d822ce21e3a7/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png?v=1731856113104" 
        alt="Roshan Sai Ketam" 
        style="width: 100%; height: auto; object-fit: cover; border-bottom: 5px solid #0e75b6;" />
 </div>
