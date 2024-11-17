@@ -1,10 +1,21 @@
 <h1 align="center">Hi 👋, I'm KETAM ROSHAN SAI</h1>
-<h3 align="center">Roshan</h3>
+<h3 align="center">Empowering Ideas Through Code, Cybersecurity, and Full-Stack Engineering</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshansaik&label=Profile%20views&color=0e75b6&style=flat" alt="roshansaik" /> </p>
+<div align="center">
+  <img src="https://cdn.glitch.global/e645f390-3eba-4b48-9964-d822ce21e3a7/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?v=1731854667118" 
+       alt="Roshan Sai Ketam" 
+       style="width: 100%; height: auto; object-fit: cover; border-bottom: 5px solid #0e75b6;" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshansaik" alt="roshansaik" /></a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=roshansaik&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-troph">
+    <img src="https://github-profile-trophy.vercel.app/?username=roshansaik&theme=gruvbox" alt="GitHub Trophies" />
+  </a>
+</p>
 - 🌱 I’m currently learning **Frameworks, courses, etc. (e.g., React.js, Node.js, AWS, Google Cloud, etc.)**
 
 - 👨‍💻 All of my projects are available at [https://roshansaik.github.io/R-Profile/](https://roshansaik.github.io/R-Profile/)
