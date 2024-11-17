@@ -16,7 +16,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=roshansaik&theme=gruvbox" alt="GitHub Trophies" />
   </a>
 </p>
-- 🌱 I’m currently learning **Frameworks, courses, etc. (e.g., React.js, Node.js, AWS, Google Cloud, etc.)**
+- 🌱 I’m currently learning Frameworks, courses, etc. (e.g., React.js, Node.js, AWS, Google Cloud, etc.)
 
 - 👨‍💻 All of my projects are available at [https://roshansaik.github.io/R-Profile/](https://roshansaik.github.io/R-Profile/)
 
