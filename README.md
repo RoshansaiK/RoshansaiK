@@ -47,6 +47,7 @@
   <a href="https://medium.com/@roshansaiketham" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/charm_ants_79" target="_blank"><img src="https://img.shields.io/badge/-Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/@roshansaiketham" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/roshansaiketham67/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
@@ -54,7 +55,7 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,nodejs,express,mongodb,mysql,docker,aws,gcp,firebase,figma,linux,tailwind,sass,graphql,django,flutter,php,cpp,git,spring" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,redux,nodejs,express,mongodb,mysql,docker,aws,gcp,firebase,figma,linux,tailwind,sass,graphql,django,flutter,php,cpp,git,spring" />
 </div>
 
 ---
