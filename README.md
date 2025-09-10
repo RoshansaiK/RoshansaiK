@@ -1,31 +1,37 @@
-<!-- Profile Header with Animated Background -->
+<!-- Profile Header with Dual Animated Background -->
 <div align="center">
+  <!-- Abstract Shapes GIF -->
+  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
+       alt="abstract shapes" 
+       style="width:70%; border-radius: 12px; margin-bottom: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
+  <br />
+  <!-- Ocean Snake GIF -->
   <img src="https://raw.githubusercontent.com/roshansaik/roshansaik/output/ocean.gif" 
-       alt="animated background" 
-       style="width: 100%; border-radius: 14px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);" />
+       alt="animated ocean snake" 
+       style="width:80%; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);" />
 </div>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0e75b6;">Ketam Roshan Sai</span></h1>
-<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Cloud Learner</h3>
+<h3 align="center">Full-Stack Developer ⚡ | Cybersecurity Enthusiast 🔐 | Cloud Explorer ☁️</h3>
 
 ---
 
-### 👨‍💻 About Me  
+## 👨‍💻 About Me  
 
-- 🌱 Currently learning: **React.js**, **Node.js**, **AWS**, **Google Cloud**, **Firebase**  
+- 🌱 Learning: **React.js**, **Node.js**, **AWS**, **Google Cloud**, **Firebase**  
 - 💼 Portfolio: [roshansaik.github.io/R-Profile](https://roshansaik.github.io/R-Profile/)  
-- 💬 Let’s talk about:  
-  - ⚡ **Frontend (React, Vue)**  
-  - ⚡ **Backend (Node.js, Express)**  
-  - ⚡ **MERN / MEAN Stack**  
-  - ⚡ **Cybersecurity & Web App Security**  
-  - ⚡ **Data Analysis & Visualization**  
-- 📩 Reach me at: **roshansaiketham67@gmail.com**  
-- 🎯 Fun fact: I love **ethical hacking, puzzles, and exploring new tech!**  
+- 💬 Expertise in:  
+  - 🎨 **Frontend:** React, Vue  
+  - 🛠️ **Backend:** Node.js, Express  
+  - 🌍 **Stacks:** MERN / MEAN  
+  - 🔐 **Cybersecurity & Web App Security**  
+  - 📊 **Data Analysis & Visualization**  
+- 📩 Contact: **roshansaiketham67@gmail.com**  
+- 🎯 Fun Fact: I love **ethical hacking, puzzles, and exploring tech!**  
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/ketam%20roshan%20sai"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -38,7 +44,7 @@
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,redux,nodejs,express,mongodb,mysql,docker,aws,gcp,firebase,figma,linux,tailwind,sass,graphql,django,flutter,php,cpp,git,spring" />
@@ -46,7 +52,7 @@
 
 ---
 
-### 📊 GitHub Insights  
+## 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshansaik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -58,7 +64,7 @@
 
 ---
 
-### 🏆 Achievements  
+## 🏆 Achievements  
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -68,7 +74,7 @@
 
 ---
 
-### ✨ Animated Background Footer  
+## ✨ Contribution Snake  
 
 <div align="center">
   <picture>
@@ -77,7 +83,7 @@
     <!-- Light theme -->
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshansaik/roshansaik/output/github-snake.svg" />
     <!-- Fallback GIF -->
-    <img alt="github-snake" src="https://raw.githubusercontent.com/roshansaik/roshansaik/output/ocean.gif" style="width: 100%;" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/roshansaik/roshansaik/output/ocean.gif" style="width: 100%; max-width: 900px;" />
   </picture>
 </div>
 
