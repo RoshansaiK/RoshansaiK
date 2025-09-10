@@ -1,58 +1,44 @@
-<h1 align="center">👋 Hi, I'm Ketam Roshan Sai</h1>
-<h3 align="center">Empowering Ideas Through Code | Cybersecurity Enthusiast | Full-Stack Developer</h3>
-
+<!-- Profile Header with Animated Background -->
 <div align="center">
-  <img src="https://cdn.glitch.global/e645f390-3eba-4b48-9964-d822ce21e3a7/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png?v=1731856113104" 
-       alt="Roshan Sai Ketam Banner" 
-       style="width: 100%; height: auto; object-fit: cover; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
+  <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/31c9033cda824c29f6a30ed6e5dd1d60.gif" 
+       alt="animated background" 
+       style="width: 100%; border-radius: 14px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);" />
 </div>
 
+<h1 align="center">👋 Hi, I'm <span style="color:#0e75b6;">Ketam Roshan Sai</span></h1>
+<h3 align="center">Full-Stack Developer | Cybersecurity Enthusiast | Cloud Learner</h3>
+
+---
+
+### 👨‍💻 About Me  
+
+- 🌱 Currently learning: **React.js**, **Node.js**, **AWS**, **Google Cloud**, **Firebase**  
+- 💼 Portfolio: [roshansaik.github.io/R-Profile](https://roshansaik.github.io/R-Profile/)  
+- 💬 Let’s talk about:  
+  - ⚡ **Frontend (React, Vue)**  
+  - ⚡ **Backend (Node.js, Express)**  
+  - ⚡ **MERN / MEAN Stack**  
+  - ⚡ **Cybersecurity & Web App Security**  
+  - ⚡ **Data Analysis & Visualization**  
+- 📩 Reach me at: **roshansaiketham67@gmail.com**  
+- 🎯 Fun fact: I love **ethical hacking, puzzles, and exploring new tech!**  
+
+---
+
+### 🌐 Connect With Me  
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=roshansaik&label=Profile%20views&color=0e75b6&style=flat-square" alt="roshansaik" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roshansaik&theme=onedark&no-bg=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /></a>
-</p>
-
----
-
-### 🚀 About Me
-
-- 🌱 Currently learning: **React.js**, **Node.js**, **AWS**, **Google Cloud**, **Firebase**
-- 👨‍💻 Portfolio: [roshansaik.github.io/R-Profile](https://roshansaik.github.io/R-Profile/)
-- 💬 Ask me about:  
-  - Frontend with **React, Vue**
-  - Backend with **Node.js, Express**
-  - Full-stack development using **MERN / MEAN**
-  - **Cybersecurity practices** & **Web App Security**
-  - **Data Analysis** & **Visualization**
-- 📫 Reach me at: **roshansaiketham67@gmail.com**
-- ⚡ Fun Fact: I love exploring new tech, solving puzzles, and diving into ethical hacking!
-
----
-
-### 📝 Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/ketam%20roshan%20sai" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/roshansai_ketham" target="_blank"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://medium.com/@roshansaiketham" target="_blank"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/charm_ants_79" target="_blank"><img src="https://img.shields.io/badge/-Codechef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/@roshansaiketham" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/roshansaiketham67/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/ketam%20roshan%20sai"><img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/roshansai_ketham"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://medium.com/@roshansaiketham"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/charm_ants_79"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/@roshansaiketham"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/roshansaiketham67/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack  
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,redux,nodejs,express,mongodb,mysql,docker,aws,gcp,firebase,figma,linux,tailwind,sass,graphql,django,flutter,php,cpp,git,spring" />
@@ -60,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=roshansaik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -72,5 +58,25 @@
 
 ---
 
-🎯 _“Code is not just written, it's crafted.”_  
-Let’s build something great together 🚀
+### 🏆 Achievements  
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=roshansaik&theme=matrix&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### ✨ Animated Background Footer  
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/roshansaik/roshansaik/output/github-contribution-grid-snake.svg" 
+       alt="snake animation" 
+       style="width: 100%;" />
+</div>
+
+---
+
+💡 *“Code is not just written, it’s crafted.”*  
+🚀 Let’s build something impactful together!
