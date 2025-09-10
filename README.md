@@ -19,15 +19,15 @@
 ## 👨‍💻 About Me  
 
 - 🌱 Learning: **React.js**, **Node.js**, **AWS**, **Google Cloud**, **Firebase**  
-- 💼 Portfolio: [roshansaik.github.io/R-Profile](https://roshansaik.github.io/R-Profile/)  
-- 💬 Expertise in:  
-  - 🎨 **Frontend:** React, Vue  
-  - 🛠️ **Backend:** Node.js, Express  
-  - 🌍 **Stacks:** MERN / MEAN  
-  - 🔐 **Cybersecurity & Web App Security**  
-  - 📊 **Data Analysis & Visualization**  
-- 📩 Contact: **roshansaiketham67@gmail.com**  
-- 🎯 Fun Fact: I love **ethical hacking, puzzles, and exploring tech!**  
+-  Portfolio: [roshansaik.github.io/R-Profile](https://roshansaik.github.io/R-Profile/)  
+-  Expertise in:  
+  -  **Frontend:** React, Vue  
+  -  **Backend:** Node.js, Express  
+  -  **Stacks:** MERN / MEAN  
+  -  **Cybersecurity & Web App Security**  
+  -  **Data Analysis & Visualization**  
+-  Contact: **roshansaiketham67@gmail.com**  
+-  Fun Fact: I love **ethical hacking, puzzles, and exploring tech!**  
 
 ---
 
@@ -74,18 +74,6 @@
 
 ---
 
-## ✨ Contribution Snake  
-
-<div align="center">
-  <picture>
-    <!-- Dark theme -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshansaik/roshansaik/output/github-snake-dark.svg" />
-    <!-- Light theme -->
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshansaik/roshansaik/output/github-snake.svg" />
-    <!-- Fallback GIF -->
-    <img alt="github-snake" src="https://raw.githubusercontent.com/roshansaik/roshansaik/output/ocean.gif" style="width: 100%; max-width: 900px;" />
-  </picture>
-</div>
 
 ---
 
