@@ -3,12 +3,12 @@
   <!-- Abstract Shapes GIF -->
   <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" 
        alt="abstract shapes" 
-       style="width:70%; border-radius: 12px; margin-bottom: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25);" />
+       style="width:70%; border-radius: 14px; margin-bottom: 15px; box-shadow: 0 6px 14px rgba(0,0,0,0.3);" />
   <br />
   <!-- Ocean Snake GIF -->
   <img src="https://raw.githubusercontent.com/roshansaik/roshansaik/output/ocean.gif" 
        alt="animated ocean snake" 
-       style="width:80%; border-radius: 12px; box-shadow: 0 6px 12px rgba(0,0,0,0.3);" />
+       style="width:80%; border-radius: 14px; box-shadow: 0 8px 16px rgba(0,0,0,0.35);" />
 </div>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#0e75b6;">Ketam Roshan Sai</span></h1>
@@ -18,16 +18,16 @@
 
 ## 👨‍💻 About Me  
 
-- 🌱 Learning: **React.js**, **Node.js**, **AWS**, **Google Cloud**, **Firebase**  
--  Portfolio: [roshansaik.github.io/R-Profile](https://roshansaik.github.io/R-Profile/)  
--  Expertise in:  
-  -  **Frontend:** React, Vue  
+- 🌱 Learning: **React.js**, **React Native**, **Node.js**, **AWS**, **Google Cloud**, **Firebase**  
+-  🎨 Portfolio: [roshansaik.github.io/R-Profile](https://roshansaik.github.io/R-Profile/)  
+-  💡 Expertise in:  
+  -  **Frontend:** React, Vue, React Native  
   -  **Backend:** Node.js, Express  
   -  **Stacks:** MERN / MEAN  
   -  **Cybersecurity & Web App Security**  
   -  **Data Analysis & Visualization**  
--  Contact: **roshansaiketham67@gmail.com**  
--  Fun Fact: I love **ethical hacking, puzzles, and exploring tech!**  
+-  📬 Contact: **roshansaiketham67@gmail.com**  
+-  ⚡ Fun Fact: I love **ethical hacking, puzzles, and exploring tech!**  
 
 ---
 
@@ -48,18 +48,22 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,vite,redux,nodejs,express,mongodb,mysql,docker,aws,gcp,firebase,figma,linux,tailwind,sass,graphql,django,flutter,php,cpp,git,spring" />
+  <br />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" title="React Native"/>
 </div>
+
+
 
 ---
 
 ## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=roshansaik&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=roshansaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshansaik&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshansaik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshansaik&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshansaik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -74,8 +78,5 @@
 
 ---
 
-
----
-
-💡 *“Code is not just written, it’s crafted.”*  
-🚀 Let’s build something impactful together!
+💡 *“Code is not just written, it’s crafted with precision & creativity.”*  
+🚀 Let’s innovate and build something impactful together!  
